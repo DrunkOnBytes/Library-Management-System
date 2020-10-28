@@ -12,11 +12,24 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    
+    <script>
+      function handlePress(id) {
+        var element = document.getElementById;
+        document.getElementById("1").classList.remove("active");
+        document.getElementById("2").classList.remove("active");
+        document.getElementById("3").classList.remove("active");
+        document.getElementById("4").classList.remove("active");
+
+        document.getElementById(id).classList.add("active");
+      }
+    </script>
+
     <div class="sidebar">
-      <a class="active" href="#home">Home</a>
-      <a href="#news">Collection</a>
-      <a href="#contact">Borrowers</a>
-      <a href="#about">About</a>
+      <a id="1" class="active" href="#home" onclick="handlePress('1')">Home</a>
+      <a id="2" href="#news" onclick="handlePress('2')">Collection</a>
+      <a id="3" href="#contact" onclick="handlePress('3')">Borrowers</a>
+      <a id="4" href="#about" onclick="handlePress('4')">About</a>
     </div>
 
     <div class="content">
