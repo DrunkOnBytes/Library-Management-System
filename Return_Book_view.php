@@ -114,7 +114,7 @@
 	$x->QuickSearchText = $Translation["quick search"];
 	$x->ScriptFileName = "Return_Book_view.php";
 	$x->RedirectAfterInsert = "Return_Book_view.php?SelectedID=#ID#";
-	$x->TableTitle = "Returned";
+	$x->TableTitle = "Fines";
 	$x->TableIcon = "resources/table_icons/application_side_expand.png";
 	$x->PrimaryKey = "`Return_Book`.`id`";
 
