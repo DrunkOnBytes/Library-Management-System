@@ -105,7 +105,6 @@
         <li><a href="NewsPapers_view.php"><i class="fa fa-newspaper-o"></i> <span>Newspapers</span></a></li>
         <li><a href="Book_Issue_view.php"><i class="fa fa-space-shuttle"></i> <span>Issued</span></a></li>
         <li><a href="Return_Book_view.php"><i class="fa fa-thumbs-up"></i> <span>Returned</span></a></li>
-         <li><a href="http://localhost/saide/Book_Issue_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=9&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=issued&FilterAnd%5B5%5D=and&FilterAnd%5B9%5D=and&FilterAnd%5B13%5D=and&FilterAnd%5B17%5D=and&FilterAnd%5B21%5D=and&FilterAnd%5B25%5D=and&FilterAnd%5B29%5D=and&FilterAnd%5B33%5D=and&FilterAnd%5B37%5D=and&FilterAnd%5B41%5D=and&FilterAnd%5B45%5D=and&FilterAnd%5B49%5D=and&FilterAnd%5B53%5D=and&FilterAnd%5B57%5D=and&FilterAnd%5B61%5D=and&FilterAnd%5B65%5D=and&FilterAnd%5B69%5D=and&FilterAnd%5B73%5D=and&FilterAnd%5B77%5D=and"><i class="fa fa-thumbs-down"></i> <span>Not Returned</span></a></li>
         <li class="treeview">
           <a href="#"><i class="fa fa-cogs"></i> <span>ACTIONS</span>
             <span class="pull-right-container">
