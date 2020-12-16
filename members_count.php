@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","root","","saide_db");
+$con=mysqli_connect("https://remotemysql.com/","LYJtpMUKrA","5dpVymfHCS","LYJtpMUKrA");
 // Check connection
 if (mysqli_connect_errno())
   {
