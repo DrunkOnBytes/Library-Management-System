@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("db4free.net:3306","root66","password","saide_db");
+$con=mysqli_connect("sql12.freemysqlhosting.net:3306","sql12382462","EzPxUyVZth","sql12382462");
 // Check connection
 if (mysqli_connect_errno())
   {

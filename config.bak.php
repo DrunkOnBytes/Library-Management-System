@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'db4free.net:3306';
-	$dbUsername = 'root66';
-	$dbPassword = 'password';
-	$dbDatabase = 'saide_db';
+	$dbServer = 'sql12.freemysqlhosting.net:3306';
+	$dbUsername = 'sql12382462';
+	$dbPassword = 'EzPxUyVZth';
+	$dbDatabase = 'sql12382462';
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
