@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'remotemysql.com:3306';
-	$dbUsername = 'LYJtpMUKrA';
-	$dbPassword = '5dpVymfHCS';
-	$dbDatabase = 'LYJtpMUKrA';
+	$dbServer = 'db4free.net:3306';
+	$dbUsername = 'root66';
+	$dbPassword = 'password';
+	$dbDatabase = 'saide_db';
 
 	$adminConfig = array(
 		'adminUsername' => "ronald",

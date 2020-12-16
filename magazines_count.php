@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("remotemysql.com:3306","LYJtpMUKrA","5dpVymfHCS","LYJtpMUKrA");
+$con=mysqli_connect("db4free.net:3306","root66","password","saide_db");
 // Check connection
 if (mysqli_connect_errno())
   {
