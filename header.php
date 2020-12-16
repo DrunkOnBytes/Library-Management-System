@@ -104,7 +104,7 @@
         <li><a href="Magazines_view.php"><i class="fa fa-file-word-o"></i> <span>Magazines</span></a></li>
         <li><a href="NewsPapers_view.php"><i class="fa fa-newspaper-o"></i> <span>Newspapers</span></a></li>
         <li><a href="Book_Issue_view.php"><i class="fa fa-space-shuttle"></i> <span>Issued</span></a></li>
-        <li><a href="Return_Book_view.php"><i class="fa fa-thumbs-up"></i> <span>Returned</span></a></li>
+        <li><a href="Return_Book_view.php"><i class="fa fa-thumbs-up"></i> <span>Fines</span></a></li>
         <li class="treeview">
           <a href="#"><i class="fa fa-cogs"></i> <span>ACTIONS</span>
             <span class="pull-right-container">
