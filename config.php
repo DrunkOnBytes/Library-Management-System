@@ -1,7 +1,7 @@
 <?php
-	$dbServer = 'remotemysql.com:3306';
-	$dbUsername = 'LYJtpMUKrA';
-	$dbPassword = '5dpVymfHCS';
+	$dbServer = 'localhost';
+	$dbUsername = 'root';
+	$dbPassword = '';
 	$dbDatabase = 'saide_db';
 
 	$adminConfig = array(
