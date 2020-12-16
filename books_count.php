@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("sql12.freemysqlhosting.net:3306","sql12382462","EzPxUyVZth","sql12382462");
+$con=mysqli_connect("remotemysql.com:3306","y8QMgso9XZ","UkCkIojcEy","y8QMgso9XZ");
 // Check connection
 if (mysqli_connect_errno())
   {

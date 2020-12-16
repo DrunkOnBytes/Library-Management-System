@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'sql12.freemysqlhosting.net:3306';
-	$dbUsername = 'sql12382462';
-	$dbPassword = 'EzPxUyVZth';
-	$dbDatabase = 'sql12382462';
+	$dbServer = 'remotemysql.com:3306';
+	$dbUsername = 'y8QMgso9XZ';
+	$dbPassword = 'UkCkIojcEy';
+	$dbDatabase = 'y8QMgso9XZ';
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
